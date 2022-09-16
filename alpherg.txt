@@ -2,4 +2,5 @@ The Alpherg git commit
 hi jasmine
 hey alpherg 
 im learning git 
+simple git 
 
